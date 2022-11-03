@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I'm working on projects related to data science, statistics, & machine learning. 
+- I've studied economics and am interested in using unstructured data for social science research. 
+- I'm looking for a job!
+
+Contact me:  
+helliot3 'at' uoregon 'dot' edu
