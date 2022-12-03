@@ -15,13 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm working on projects related to data science, statistics, & machine learning. 
-- I've studied economics and am interested in using unstructured data for social science research. 
-
-Contact me:  
-helliot3 'at' uoregon 'dot' edu
-
-
 [![stats](https://github-readme-stats.vercel.app/api?username=hans-elliott99&count_private=true&show_icons=true&theme=noctis_minimus&title_color=485454&border_color=485454)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
